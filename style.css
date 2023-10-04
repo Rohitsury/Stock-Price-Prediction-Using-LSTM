@@ -1,0 +1,58 @@
+div.css-6qob1r.e1fqkh3o3{
+    background-color: #ffffff;
+    background-image: linear-gradient(315deg, #ffffff 0%, #5899e2 74%);
+    box-shadow: 0 0 15px 0 rgba(255, 255, 255, 0.561);
+}
+
+.css-4fbub3.e1tzin5v0 p
+{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.css-k7vsyb.e16nr0p31 h1{
+    font-size: 25px;
+    text-shadow: 3px 3px rgb(0, 0, 0);
+    /* opacity: .1; */
+    letter-spacing: 1px;
+}
+
+.css-q8sbsg.e16nr0p34 p{
+    color: black;
+    font-weight: bold;
+}
+
+/* Button */
+.css-z09lfk.edgvbvh10
+{
+    padding: 12px 20px;
+    margin-top: 2%;
+    background-color: rgb(21, 21, 21);
+    font-weight: 450;
+    letter-spacing: 1px;
+    transition: .5s linear;
+    border-radius: 40px;
+}
+.css-z09lfk.edgvbvh10 p{
+    color:whitesmoke;
+    font-size: 12px;
+}
+
+/* Big Container */
+.css-1avcm0n.e8zbici2
+{
+    background-color: black;
+    box-shadow: 0 0 15px 10px rgba(0, 0, 0, 0.561);
+}
+.css-ffhzg2.eczokvf1
+{
+    background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+
+    background-blend-mode: multiply;
+   }
+
+.stAlert
+{
+    font-weight: bold;
+}
