@@ -7,4 +7,4 @@ yfinance==0.2.14
 keras==2.12.0rc1
 streamlit==1.21.0
 scikit-learn==1.2.1
-yahoo_fin==0.9.11
+
